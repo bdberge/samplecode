@@ -4,7 +4,7 @@
 As we examine Python we will review code in this repo.
 
 ### HOW SHOULD YOU USE THIS?
-1. During each lecture I will pull examples from this code.
+1. During each lecture I will pull examples from this code
 2. After each lecture, I will assign additional reading homework from this repo
 3. By the end of the term, you will have studied every file in this repo.
 
@@ -24,6 +24,5 @@ As we examine Python we will review code in this repo.
 
 ### WHAT ELSE SHOULD YOU KNOW?
 This is a living collection. I will update it from time to time and let you know.
-
 
 Good luck, and have fun!
